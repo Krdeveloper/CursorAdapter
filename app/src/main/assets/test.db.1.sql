@@ -1,0 +1,4 @@
+CREATE TABLE product (
+    _id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT
+     );
